@@ -1,0 +1,53 @@
+﻿  Main.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(104,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(119,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Main.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nivel.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(104,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(119,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(130,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(156,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(269,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+  PowerUp.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(104,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(119,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Objetos.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(104,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Objetos.h(119,19): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Arkanoid_Game.vcxproj -> C:\Users\Emanuel\source\repos\StartGUI\Debug\Arkanoid_Game.exe

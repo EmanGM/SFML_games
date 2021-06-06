@@ -1,0 +1,140 @@
+﻿  Main.cpp
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(56,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(121,72): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(121,64): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(121,57): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(121,49): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(122,73): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(122,65): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(122,57): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(122,49): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(123,69): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(123,61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(123,53): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(123,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(124,73): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(124,65): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(124,57): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(124,49): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(179,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(180,12): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Main.cpp(78,58): warning C4390: ';': empty controlled statement found; is this the intent?
+  Tetromio.cpp
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Tetromio.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Tetromio.cpp(191,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\Tetromio.cpp(192,9): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  RoundFrame.cpp
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\RoundFrame.cpp(58,31): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\RoundFrame.cpp(59,32): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\RoundFrame.cpp(62,50): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Tetris_Game\RoundFrame.cpp(62,32): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating code
+  15 of 219 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tetris_Game.vcxproj -> C:\Users\Emanuel\source\repos\Jogos\Tetris_Game\Release\Tetris_Game.exe

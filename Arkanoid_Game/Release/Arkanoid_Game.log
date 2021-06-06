@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Main.cpp(62,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nivel.cpp
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(83,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(114,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(130,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(156,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(269,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Arkanoid_Game\Nivel.cpp(272,20): warning C4018: '<': signed/unsigned mismatch
+  PowerUp.cpp
+  Objetos.cpp
+  Generating code
+  27 of 503 functions ( 5.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Arkanoid_Game.vcxproj -> C:\Users\Emanuel\source\repos\Jogos\Arkanoid_Game\Release\Arkanoid_Game.exe

@@ -1,0 +1,10 @@
+﻿  Food.cpp
+  Main.cpp
+C:\Users\Emanuel\source\repos\Jogos\Snake_Game\Snake_Game\Main.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Snake.cpp
+  Generating code
+  13 of 99 functions (13.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Snake_Game.vcxproj -> C:\Users\Emanuel\source\repos\Jogos\Snake_Game\Release\Snake_Game.exe

@@ -1,0 +1,7 @@
+﻿  Food.cpp
+C:\Users\Emanuel\source\repos\Jogos\Snake_Game\Snake_Game\Food.h(3,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Main.cpp
+C:\Users\Emanuel\source\repos\Jogos\Snake_Game\Snake_Game\Main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Snake.cpp
+C:\Users\Emanuel\source\repos\Jogos\Snake_Game\Snake_Game\Food.h(3,10): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Generating Code...
