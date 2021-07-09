@@ -1,0 +1,12 @@
+﻿  Ball.cpp
+C:\Users\Emanuel\source\repos\Jogos\PongLike_Game\PongLike_Game\Ball.cpp(19,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Emanuel\source\repos\Jogos\PongLike_Game\PongLike_Game\Ball.cpp(64,16): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\Jogos\PongLike_Game\PongLike_Game\Ball.cpp(67,68): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Obstaculos.cpp
+C:\Users\Emanuel\source\repos\Jogos\PongLike_Game\PongLike_Game\Obstaculos.cpp(103,19): warning C4305: '=': truncation from 'double' to 'float'
+  Generating Code...
+  PongLike_Game.vcxproj -> C:\Users\Emanuel\source\repos\Jogos\PongLike_Game\Debug\PongLike_Game.exe
