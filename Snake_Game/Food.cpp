@@ -23,7 +23,7 @@ void Food::newPosition(Snake& snake) {
 	position.y = rand() % (int)(windowSize.y / this->cellSize.y) * this->cellSize.y;
 	//std::cout << "Pozisao X " << position.x << "\n" << "Pozisao Y " << position.y << "\n\n";
 	for (int i = 0; i < snake.length; i++) {
-		if (snake.corpo[i].getPosition().x - 1 == position.x && snake.corpo[i].getPosition().y - 1 == position.y) {
+		if (snake.body[i].getPosition().x - 1 == position.x && snake.body[i].getPosition().y - 1 == position.y) {
 			newPosition(snake);
 		}
 	}

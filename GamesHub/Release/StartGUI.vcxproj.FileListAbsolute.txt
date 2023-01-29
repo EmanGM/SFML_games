@@ -1,3 +1,0 @@
-C:\Users\Emanuel\source\repos\StartGUI\StartGUI\Release\StartGUI.vcxprojAssemblyReference.cache
-C:\Users\Emanuel\source\repos\StartGUI\StartGUI\Release\StartGUI.MyForm.resources
-C:\Users\Emanuel\source\repos\StartGUI\StartGUI\Release\StartGUI.vcxproj.GenerateResource.cache

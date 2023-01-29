@@ -1,94 +1,94 @@
 ﻿  Asteroides.cpp
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(39,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(49,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(39,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(49,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(50,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(50,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(59,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(59,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(60,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(60,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(69,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(69,43): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(70,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(70,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(79,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(79,39): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Asteroides.cpp(80,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Asteroides.cpp(80,23): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
   Explosion.cpp
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Explosion.cpp(10,36): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Explosion.cpp(10,36): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
           with
           [
               T=int
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Explosion.cpp(11,42): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Explosion.cpp(11,42): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
           with
           [
               T=int
           ]
   Main.cpp
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(36,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(114,45): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(20,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(36,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(114,45): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(115,45): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(115,45): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Main.cpp(151,22): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Main.cpp(151,22): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
   Player.cpp
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(51,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(51,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(52,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(52,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(68,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(72,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(204,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(68,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(72,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(204,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
-C:\Users\Emanuel\source\repos\Jogos\Asteroids_Game\Asteroids_Game\Player.cpp(205,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\Asteroids_Game\Player.cpp(205,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
           with
           [
               T=float
           ]
   Generating Code...
-  Asteroids_Game.vcxproj -> C:\Users\Emanuel\source\repos\StartGUI\Debug\Asteroids_Game.exe
+  Asteroids_Game.vcxproj -> C:\Users\Emanuel\source\repos\GamesHub\Debug\Asteroids_Game.exe

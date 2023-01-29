@@ -1,40 +1,18 @@
 #pragma once
 
 #include "Food.h"
+#include "RoundTail.h"
 #include <SFML\Graphics.hpp>
 
-enum direction {
-	Right,
-	Left,
-	Up,
-	Down,
-};
 
 
-class Cauda {
+
+class Snake {
+
 private:
-	sf::RectangleShape quadrado;
-	sf::CircleShape redondo;
-	sf::Vector2f size;
-	sf::Vector2f position;
-	direction direcao;
-	void move();
-
-
-public:
-	Cauda(sf::Vector2f size);
-	void setDirection(sf::Vector2f position);
-	void setPosition(const sf::Vector2f newPosition);
-	void draw(sf::RenderWindow& window);
-};
-
-
-class Snake
-{
-private:
-	sf::RectangleShape* corpo;
-	sf::CircleShape olho;
-	Cauda cauda;
+	sf::RectangleShape* body;
+	sf::CircleShape eye;
+	RoundTail tail;
 	sf::Vector2f curentPosition;
 	sf::Vector2f size;
 	direction direcao;
@@ -44,9 +22,9 @@ private:
 
 public:
 	Snake(sf::Vector2f cellSize);
+	void draw(sf::RenderWindow& window);
 	int length;
 	float velocity;
-	void draw(sf::RenderWindow& window);
 	void move();
 	void changeDirection(direction direcao);
 	void aumentarTamanho(int aumento, Food food);

@@ -1,10 +1,10 @@
 ﻿  Bird.cpp
   Main.cpp
-C:\Users\Emanuel\source\repos\Jogos\FlappyDuck_Game\FlappyDuck_Game\Main.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Emanuel\source\repos\Jogos\FlappyDuck_Game\FlappyDuck_Game\Main.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Emanuel\source\repos\Jogos\FlappyDuck_Game\FlappyDuck_Game\Main.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Emanuel\source\repos\Jogos\FlappyDuck_Game\FlappyDuck_Game\Main.cpp(154,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Emanuel\source\repos\Jogos\FlappyDuck_Game\FlappyDuck_Game\Main.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\GamesHub\FlappyDuck_Game\Main.cpp(49,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Emanuel\source\repos\GamesHub\FlappyDuck_Game\Main.cpp(108,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\GamesHub\FlappyDuck_Game\Main.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\GamesHub\FlappyDuck_Game\Main.cpp(154,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Emanuel\source\repos\GamesHub\FlappyDuck_Game\Main.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
   Tubo.cpp
   Generating Code...
-  FlappyDuck_Game.vcxproj -> C:\Users\Emanuel\source\repos\StartGUI\Debug\FlappyDuck_Game.exe
+  FlappyDuck_Game.vcxproj -> C:\Users\Emanuel\source\repos\GamesHub\Debug\FlappyDuck_Game.exe

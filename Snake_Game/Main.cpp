@@ -1,3 +1,5 @@
+#pragma once
+
 #include <SFML\Graphics.hpp>
 #include <iostream>
 #include <stdlib.h>
@@ -29,8 +31,8 @@ restart:
 	Food apple(window, cellSize, sf::Color::Green);
 	Food blueBerry(window, cellSize, sf::Color::Blue);
 
-	Snake cobra(cellSize);
-	cobra.velocity = vel;
+	Snake snake(cellSize);
+	snake.velocity = vel;
 
 	sf::Font font;
 	font.loadFromFile("Fonts\\tecnico_regular.ttf");
@@ -59,41 +61,37 @@ restart:
 		if (runGame == true) {
 
 			if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::A) || sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Left)) {
-				cobra.changeDirection(Left);
+				snake.changeDirection(Left);
 			}
 			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::D) || sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Right)) {
-				cobra.changeDirection(Right);
+				snake.changeDirection(Right);
 			}
 			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::W) || sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Up)) {
-				cobra.changeDirection(Up);
+				snake.changeDirection(Up);
 			}
 			else if (sf::Keyboard::isKeyPressed(sf::Keyboard::Key::S) || sf::Keyboard::isKeyPressed(sf::Keyboard::Key::Down)) {
-				cobra.changeDirection(Down);
+				snake.changeDirection(Down);
 			}
 
-
 			tempo1 = clock1.getElapsedTime();
-			if (tempo1.asSeconds() >= cobra.velocity) {
-
+			if (tempo1.asSeconds() >= snake.velocity) {
 				clock1.restart();
-				cobra.move();
-				//std::cout << "\n" << cobra.velocity;
-				if (cobra.velocity <= vel) {
-					cobra.velocity += 0.0005f;
+				snake.move();
+				if (snake.velocity <= vel) {
+					snake.velocity += 0.001f;
 				}
 			}
 
-			if (cobra.checkFoodColision(apple) == true) {
-				cobra.aumentarTamanho(1, apple);
-				apple.newPosition(cobra);
+			if (snake.checkFoodColision(apple) == true) {
+				snake.aumentarTamanho(1, apple);
+				apple.newPosition(snake);
 
 			}
 
 
 			tempo2 = clock2.getElapsedTime();
-			if (specialFoood == false && tempo2.asSeconds() >= 2.0f && cobra.length > (5 + 4)) {
+			if (specialFoood == false && tempo2.asSeconds() >= 2.0f && snake.length > (5 + 4)) {
 				probability = rand() % 100;
-				//std::cout << "\n" << probability;
 				if (probability < 10) {
 					specialFoood = true;
 				}
@@ -101,19 +99,17 @@ restart:
 			}
 
 			if (specialFoood) {
-				if (cobra.checkFoodColision(blueBerry) == true) {
-					cobra.aumentarTamanho(2, blueBerry);
-					cobra.velocity -= 0.05f;
-					blueBerry.newPosition(cobra);
+				if (snake.checkFoodColision(blueBerry) == true) {
+					snake.aumentarTamanho(2, blueBerry);
+					snake.velocity -= 0.05f;
+					blueBerry.newPosition(snake);
 					specialFoood = false;
 				}
 			}
 
-
-			if (cobra.stopGame(window)) {
+			if (snake.stopGame(window)) {
 				runGame = false;
 			}
-
 		}
 
 		if (sf::Keyboard::isKeyPressed(sf::Keyboard::Enter)) {
@@ -126,7 +122,7 @@ restart:
 
 		window.clear();
 		Background(window, cellSize);
-		cobra.draw(window);
+		snake.draw(window);
 		apple.draw(window);
 		if (specialFoood) {
 			blueBerry.draw(window);
