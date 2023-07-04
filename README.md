@@ -15,10 +15,10 @@ This hole project was make throughout a learning process so a lot of bad code pr
 green dots give +1 
 blue dots give +2 but increase speed
 
-![snake](./media/snake)
+![snake](./media/snake.png)
 
 # Flappy Duck
 
-![flappy duck](./media/flappy duck)
+![flappy duck](./media/flappy\ duck.png)
 
 # Asteroids
